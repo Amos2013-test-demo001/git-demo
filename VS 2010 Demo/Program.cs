@@ -14,6 +14,9 @@ namespace VS_2010_Demo
 
             //master changes
             //these changes will be stashed
+
+
+            //Change from visual studio 2012
         }
     }
 }
