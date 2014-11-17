@@ -11,6 +11,8 @@ namespace VS_2010_Demo
         {
             // Changes on the Main branch VS 2010
             //v1.1 changes
+
+            //master changes
         }
     }
 }
