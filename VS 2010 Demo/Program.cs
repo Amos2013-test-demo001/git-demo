@@ -10,6 +10,7 @@ namespace VS_2010_Demo
         static void Main(string[] args)
         {
             // Changes on the Main branch VS 2010
+            //v1.1 changes
         }
     }
 }
