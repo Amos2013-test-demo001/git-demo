@@ -13,6 +13,7 @@ namespace VS_2010_Demo
             //v1.1 changes
 
             //master changes
+            //these changes will be stashed
         }
     }
 }
